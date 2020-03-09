@@ -1,2 +1,3 @@
 # hello-world
-This is a test.
+I am new at this.
+This is fun.
